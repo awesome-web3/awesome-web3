@@ -1,7 +1,7 @@
 # Awesome Web3
 
 
-ToC
+
 ---
 
 - [Docs](#docs)
