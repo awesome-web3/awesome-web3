@@ -2,8 +2,6 @@
 
 
 
----
-
 - [Docs](#docs)
 - [Videos](#videos)
 - [Tutorial](#tutorial)
