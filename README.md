@@ -3,7 +3,6 @@
 Table of Contents
 =================
 
-* [Awesome Web3](#awesome-web3)
    * [Docs](#docs)
    * [Videos](#videos)
    * [Tutorial](#tutorial)
