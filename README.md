@@ -1,5 +1,42 @@
 # Awesome Web3
 
+Table of Contents
+=================
+
+* [Awesome Web3](#awesome-web3)
+   * [Docs](#docs)
+   * [Videos](#videos)
+   * [Tutorial](#tutorial)
+   * [Awesome List](#awesome-list)
+   * [Reference](#reference)
+   * [Software Development](#software-development)
+      * [Developer Roadmap](#developer-roadmap)
+      * [Sample Code](#sample-code)
+      * [Development Environment](#development-environment)
+      * [Protocol](#protocol)
+      * [JavaScript](#javascript)
+      * [Solidity](#solidity)
+      * [Go](#go)
+      * [C/C++](#cc)
+      * [Rust](#rust)
+      * [Shell](#shell)
+      * [Python](#python)
+      * [VMs](#vms)
+      * [No Code](#no-code)
+      * [Boilerplate](#boilerplate)
+      * [Testing](#testing)
+      * [Code Quality](#code-quality)
+      * [Database](#database)
+   * [Open Source Project](#open-source-project)
+   * [Tutorial](#tutorial-1)
+   * [YouTube Channel](#youtube-channel)
+   * [Book](#book)
+   * [Podcast](#podcast)
+   * [Newsletter](#newsletter)
+   * [Platform as a Service](#platform-as-a-service)
+   * [Other](#other)
+
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
 
 ## Docs
